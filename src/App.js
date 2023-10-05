@@ -27,10 +27,10 @@ function App() {
         
         <nav>
           <ul className={`links ${isOpen ? 'active' : ''}`}> 
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Collection</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="https://www.linkedin.com/in/gadetru/">Home</a></li>
+          <li><a href="https://www.linkedin.com/in/gadetru/">Collection</a></li>
+          <li><a href="https://www.linkedin.com/in/gadetru/">About</a></li>
+          <li><a href="https://www.linkedin.com/in/gadetru/">Contact</a></li>
           </ul>
 
         </nav>
