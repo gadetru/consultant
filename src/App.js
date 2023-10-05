@@ -50,7 +50,7 @@ function App() {
         <div className='description-container'>
           <h2>Modern interior</h2>
           <p>A full-Service residential & commercial interior design and staging company offering professional organizing & eco-services.</p>
-          <a> Read more  <img src={flecha} alt='arrow'></img> </a>
+          <a href='https://github.com/gadetru'> Read more  <img src={flecha} alt='arrow'></img> </a>
           
         </div>
         <div className='fondo-img'>
